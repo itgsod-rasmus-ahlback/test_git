@@ -6,9 +6,9 @@ vanligt stycke
 
 ## En onumrerad lista
 
-+Första saken
-+Andra saken
-+Tredje saken
++ Första saken
++ Andra saken
++ Tredje saken
 
 ## En numrerad lista
 
